@@ -23,7 +23,7 @@ body {
 }
 
 .slide.active { display: block; 
- margin-top: 190px;}
+ margin-top: 160px;}
 
 h1, h2 { color: #ff3399; }
 
@@ -87,4 +87,5 @@ textarea { width:300px; height:60px; border-radius:10px; padding:10px; }
   width:60px;
   position:absolute;  /* important */
   cursor:pointer;
+
 }
